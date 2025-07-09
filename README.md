@@ -2,7 +2,7 @@
 <h3 align="center">Engineer | Problem Solver | Tech That Matters</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Learning+today.+Leading+tomorrow;Engineering+Ideas+Into+Reality;Vision+for+the+future.+Action+in+the+present" alt="Typing IPV" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Vision+for+the+future.+Action+in+the+present;Learning+today.+Leading+tomorrow;Engineering+Ideas+Into+Reality" alt="Typing IPV" />
 </p>
 
 ---
@@ -16,12 +16,14 @@
 
 ---
 
-### 🚀 Projects I'm Proud Of
+### 🚀 Projects I've Built
 
 | 🔧 Project | 💬 Description | ⚙️ Tech |
 |-----------|----------------|---------|
 | **Food Recipe Finder** | Enabling users to seamlessly search for various recipes | HTML, CSS,JS, JAVA, SOL |
+| **HarvestHub** | AI-Powered mobile application tailored for smallholder farmers | Full Stack |
 | **Garbage Classification** | Image recognition-based garbage classification project using python | Python |
+
 
 ---
 
