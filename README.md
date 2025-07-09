@@ -11,7 +11,7 @@
 
 - 🎓 **Computer Science student at Velammal Engineering College**
 - 🌱 I’m currently learning **DSA** using Java 
-- 🏭 Intern at **Intern at Tamizhan Skills** – exploring **IoT projects using Java**  
+- 🏭 Intern at **Tamizhan Skills** – exploring **IoT projects using Java**  
 - 🤖 Building a Garbage Classification project using Python in **AICTE**  
 
 ---
