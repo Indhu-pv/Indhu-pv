@@ -2,7 +2,7 @@
 <h3 align="center">Engineer | Problem Solver | Tech That Matters</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Vision+for+the+future.+Action+in+the+present;Learning+today.+Leading+tomorrow;Engineering+Ideas+Into+Reality" alt="Typing IPV" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Vision+for+the+future.;Action+in+the+present.;Learning+today.+Leading+tomorrow;Engineering+Ideas+Into+Reality!" alt="Typing IPV" />
 </p>
 
 ---
