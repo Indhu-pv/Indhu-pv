@@ -1,58 +1,27 @@
-<h1 align="center">Hi 👋, I'm Indhu</h1>
-<h3 align="center">Engineer | Problem Solver | Tech That Matters</h3>
+# 💫 About Me:
+🔭 Working on: Academic and personal software development projects<br>👯 Looking to collaborate on: Java and Web Development projects<br>🛡️ Looking for help with: Career growth and industry exposure<br>🌱 Learning: Full-Stack Development and DSA<br>💬 Ask me about: Java, SQL, and Problem Solving<br>⚡ Fun fact: Solved 150+ coding challenges across LeetCode and GeeksforGeeks 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Vision+for+the+future.;Action+in+the+present.;Learning+today.+Leading+tomorrow;Engineering+Ideas+Into+Reality!" alt="Typing IPV" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indhu-pv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pindhu2605@gmail.com) 
 
-### 🧑‍💻 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Indhu-pv&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Indhu-pv&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Indhu-pv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🎓 **Computer Science student at Velammal Engineering College**
-- 🌱 I’m currently learning **DSA** using Java 
-- 🏭 Intern at **Tamizhan Skills** – exploring **IoT projects using Java**  
-- 🤖 Building a Garbage Classification project using Python in **AICTE**  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Indhu-pv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🚀 Projects I've Built
-
-| 🔧 Project | 💬 Description | ⚙️ Tech |
-|-----------|----------------|---------|
-| **Food Recipe Finder** | Enabling users to seamlessly search for various recipes | HTML, CSS,JS, JAVA, SOL |
-| **HarvestHub** | AI-Powered mobile application tailored for smallholder farmers | Full Stack |
-| **Garbage Classification** | Image recognition-based garbage classification project using python | Python |
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Indhu-pv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Indhu-pv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Toolbox
-
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Indhu-pv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/indhu-pv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### 💡 Personal Motto
-
-> "Don’t wait for opportunity. Build it."
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0aa0f7&height=120&section=footer"/>
-</p>
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
