@@ -1,159 +1,27 @@
-```md
-<h1 align="center">Hi 👋, I'm Indhu</h1>
+# 💫 About Me:
+🔭 Working on: Academic and personal software development projects<br>👯 Looking to collaborate on: Java and Web Development projects<br>🛡️ Looking for help with: Career growth and industry exposure<br>🌱 Learning: Full-Stack Development and DSA<br>💬 Ask me about: Java, SQL, and Problem Solving<br>⚡ Fun fact: Solved 150+ coding challenges across LeetCode and GeeksforGeeks 
 
-<h3 align="center">Computer Science Engineer | Full-Stack Developer | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Engineering+Ideas+Into+Reality;150%2B+Coding+Problems+Solved;Full-Stack+Developer+in+Progress;Building+Technology+That+Creates+Impact" alt="Typing SVG" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indhu-pv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pindhu2605@gmail.com) 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Indhu-pv&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Indhu-pv?label=Followers&style=social" alt="Followers" />
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Indhu-pv&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Indhu-pv&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Indhu-pv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-150%2B%20Problems-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Learning-green?style=for-the-badge" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Indhu-pv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🚀 About Me
-
-🔭 Working on Academic and Personal Software Development Projects
-
-👯 Looking to collaborate on Java and Web Development Projects
-
-🛡️ Looking for opportunities to gain industry exposure and practical experience
-
-🌱 Currently learning Full-Stack Development and Data Structures & Algorithms
-
-💬 Ask me about Java, SQL, Problem Solving, and Software Development
-
-⚡ Fun Fact: Solved 150+ coding challenges across LeetCode and GeeksforGeeks
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Indhu-pv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Indhu-pv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🛠️ Tech Stack
-
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-
----
-
-# 🚀 Featured Projects
-
-### 🍲 Food Recipe Finder
-A web application that enables users to search and discover recipes quickly and efficiently.
-
-**Tech Stack:** Java, HTML, CSS, JavaScript, SQL
-
-### 🌾 HarvestHub
-AI-powered platform designed to support smallholder farmers with intelligent recommendations.
-
-**Tech Stack:** Full Stack Development
-
-### ♻️ Garbage Classification System
-Machine learning-based waste classification system for smarter waste management.
-
-**Tech Stack:** Python, Machine Learning
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Indhu-pv&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Indhu-pv&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhu-pv&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Indhu-pv&theme=radical&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indhu-pv&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Indhu-pv/Indhu-pv/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/indhu-pv">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:pindhu2605@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Indhu-pv">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<h3 align="center">
-💡 "Don't Wait for Opportunity. Build It."
-</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa0f7,100:6e45e2&height=120&section=footer"/>
-</p>
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
