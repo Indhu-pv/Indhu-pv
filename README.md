@@ -12,10 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=indhu-pv&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=indhu-pv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Indhu-pv/Indhu-pv/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Indhu-pv/Indhu-pv/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
-
